@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.number ul li{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+form button{
+    width: 100px;
+    background-color: rgb(5, 5, 77);
+}
+
+.liclass{
+ background-color:rgb(189, 131, 23);  
+ color: white; 
+ width: 50px;
+ height: 50px;
+ border-radius: 50%;
+ font-size: 20px;
+ text-align: center;
+}
+
+
